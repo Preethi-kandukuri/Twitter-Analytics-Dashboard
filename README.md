@@ -28,23 +28,14 @@ This project showcases a real-time Twitter analytics dashboard developed using *
 
 4. Explore the dashboard to gain insights from the visualizations.
 
-### Screenshots
-#### Dashboard Overview
-![Dashboard Overview](link-to-overview-screenshot)
 
-#### Geospatial Analysis
-![Geospatial Analysis](link-to-geospatial-screenshot)
-
-### Video Demo
-[Click here to watch the demo](link-to-video-demo)
 
 ### Project Structure
 - **Twitter_Analytics_Dashboard.pbix**: The Power BI dashboard file.
 - **README.md**: Documentation for the project.
-- **twitter_data_extraction.py** (if applicable): Python script for fetching data from Twitter.
 - **sample_data.csv**: Sample dataset for demonstration purposes.
 - **Screenshots/**: Folder containing screenshots of the dashboard.
-- **Video/**: Link or file demonstrating the project.
+
 
 ### Future Enhancements
 - Add automated refresh for real-time updates.
